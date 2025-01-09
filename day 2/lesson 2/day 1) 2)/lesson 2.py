@@ -17,4 +17,4 @@ is_ugly = False  #snakecase ( უბრალოდ წერის სტილ
 isUgly = False  #javascript ( camelcase )
 
 
-print("me var" + " " + str(name)  +  " "  + str(surname) + " " + "var" + " " + str(age) + " " + "wlis da simaghlesi" + " " + str(height) + " " "metri")
+print("me var" + " " + str(name)  +  " "  + str(surname) + " " + "var" + " " + str(age) + " " + "wlis da simaghlesi var" + " " + str(height) + " " "metri")
