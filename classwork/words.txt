@@ -1,0 +1,10 @@
+synatx - სინტქასი, ეს არის ერთგვარი წერის წესები
+display - გამოტანა
+print - ბეჭდვა
+variable - ცვლადი
+equal sign - ტოლობის ნიშანი
+variable name - ცვლადის სახელი
+variable value - ცვლადის მნიშვნელობა
+string - ტექსტური მონაცემი
+parenthesis - ბრჩხილები
+quotation marks -  ბრჭყალები
