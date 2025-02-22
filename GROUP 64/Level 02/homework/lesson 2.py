@@ -16,4 +16,9 @@ is_ugly = False  #snakecase ( უბრალოდ წერის სტილ
 
 isUgly = False  #javascript
 
+<<<<<<< HEAD:GROUP 64/Level 02/homework/lesson 2.py
 print("me var" + " " + str(name)  +  " "  + str(surname) + " " + "var" + " " + str(age) + " " + "wlis da simaghlesi var" + " " + str(height) + " " "metri")
+=======
+
+print("me var" + " " + str(name)  +  " "  + str(surname) + " " + "var" + " " + str(age) + " " + "wlis da simaghlesi var" + " " + str(height) + " " "metri")
+>>>>>>> 0c6ed6e7cebcf9457453310ba121df0e6551fe20:day 2/lesson 2/day 1) 2)/lesson 2.py
