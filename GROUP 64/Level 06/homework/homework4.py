@@ -47,18 +47,23 @@ right(90)
 forward(50)
 end_fill()
 
+
 #გადამაქვს ფანქარი აქ
 penup()
 goto(115,350)
 pendown()
 
+
 #ვიწყებ მთავარი კოშკის ხაზვას
+begin_fill()
 left(180)
 forward(50)
 right(90)
 forward(115)
 right(90)
 forward(50)
+end_fill()
+
 
 #ჩავიტანე ფანქარი კარის და ფანჯრების დასახაზად
 penup()
@@ -82,6 +87,7 @@ goto(50,275)
 pendown()
 
 #ვიწყებ ფანჯრების ხაზვას
+begin_fill()
 forward(60)
 left(90)
 forward(60)
@@ -90,11 +96,13 @@ forward(60)
 left(90)
 forward(60)
 left(90)
+end_fill()
 
 penup()
-goto(275,275)
+goto(295,275)
 pendown()
 
+begin_fill()
 forward(60)
 right(90)
 forward(60)
@@ -102,7 +110,7 @@ right(90)
 forward(60)
 right(90)
 forward(60)
-
+end_fill()
 
 #მიმაქვს ფანქარი დროშის დასახატად
 penup()
@@ -111,14 +119,16 @@ pendown()
 
 
 #ვიწყებ დროშის ხატვას
-color("green")
+color("black")
+begin_fill()
 left(90)
 forward(75)
 right(130)
+color("green")
 forward(50)
 right(140)
 forward(30)
-
+end_fill()
 
 #საბოლოო ჯამში არცტუისე კარგი გამოვიდა მაგრამ დავტოვებ ასე,არამგონია გოას ლოგოს დახაზვა მოვახერხო <3
 
