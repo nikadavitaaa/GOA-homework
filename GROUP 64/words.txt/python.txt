@@ -37,3 +37,24 @@ multiply - გამრავლება
 divide - გაყოფა
 შექმნა - დეკლარირება
 store - შენახვა
+hash symbol - დიეზი # 
+underscore - ქვედატირე _
+Displaying - გამოტანა, ერკანზე გამოსახულების გამოტანა
+Declaring - შექმნა, გამოცხადება
+good practice - კარგი პრაქტიკა
+comments - კომენტარი
+instruction - დავალება
+case-sensitve - ქეისისადმი (დიდი-პატარა ასოების) მგრძნობიარე
+uppercase - დიდი ასოები
+lowercase - პატარა ასოები
+
+Output - გამოტანა
+Input - შეტანა
+
+Data Types - მონაცემთა ტიპები
+string - ტექსტური მონაცემი, რომელიც იწერება ბრჭყალებში
+integer - მთელი რიცხვი
+join - გაერთიანება, შესვლა
+add - დამატება
+insert - ჩასმა
+concatenation - string ტიპის მონაცემების გაერთიანება
