@@ -1,3 +1,5 @@
+Level 03:
+
 Frontend - საიტის ვიზუალური მხარე, რასთანაც შეხება აქვს მომხმარებელს
 Backend - საიტის ფუნქციონალური მხარე რომელსაც ჩვენ ვერ ვხედავთ
 
@@ -22,6 +24,9 @@ user - მომხმარებელი
 run - გაშვება
 element - ელემენტი
 heading - სათაური
+
+Level 05:
+
 source (src) - წყარო
 search - ძიება
 server - კომპიუტერი რომელიც მუდმივ კავშირშია ინტერნეტთან
@@ -42,6 +47,8 @@ head - თავი
 body - ტანი
 content - შიგთავსი
 nesting - ჩაშენება
+
+Level 07:
 
 text formatting - ტექსტის გასტილვა
 bold - მუქი, გამოკვეთილი
@@ -68,3 +75,45 @@ indentation - ინდენტაცია (ცარიელი სივრ
 best practice - საუკეთესო პრაქტიკა
 matching - შესატყვისი
 attach - მიმაგრება
+
+Level 09:
+
+order - დალაგებული
+unorder - დაულაგებელი
+contain - მოიცავს
+item - ნივთი
+attribute - ატრიუბტი
+optional  - არჩევითი
+required - საჭირო 
+size - ზომა
+label - ეტიკეტი
+width - სიგანე
+height - სიმაღლე
+pair - წყვილი
+aspect ratio - თანაფარდობა
+change - შეცვლა
+distortion - დამახინჯება
+additional - დამატებითი
+correctly - სწორად
+specified - დაზუსტებული
+
+Level 11:
+
+shape - ფორმა
+navigation - ნავიგაცია
+multiple - მრავალი
+single  - ერთი
+impact - გავლენა
+set - კომპლექტი
+extension - გაფართოება
+mark - მონიშვნა
+unique - უნიკალური, განუმეორებელი
+target - სამიზნე
+checkbox - მოსანიშნი ყუთი
+targets - უმიზნებს, მიუთითებს
+id - უნიკალური ნომერი
+for - ამისთვის (რაღაცისთვის)
+hit area - მონიშვნის ფართობი
+top - ზევით
+label - ეტიკეტი
+form - კითხვარი, ინფორმაციის შესავსები ანკეტა

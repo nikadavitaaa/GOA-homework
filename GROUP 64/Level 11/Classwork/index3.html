@@ -1,0 +1,46 @@
+<!-- შექმენით სარეგისტრაციო გვერდი, რომელზეც გექნებათ ფორმა, მასში მოქცეული იქნება 4 შესატანი ველი, თითოთეულს ექნება თავისი მითითებელი რომელშიც ეწერება თუ რა უნდა შეიყვანოს მომხმარებლა კონკრეტულ ველში, ყველა შესატანი ველი დააშორეთ ერთმანეთისგან საბოლოოდ კი აიღეთ ერთი ღილაკი ტექსტით "Register"
+
+აუცილებლად დააკავშირეთ შესაყვანი ველები label-ებთან for და id ატირბუტების საშვალებით
+
+label - for
+input - id
+
+1. სახელი
+2. გვარი
+3. ემაილი
+4. პაროლი -->
+
+<html>
+    <head>
+        <title>My website</title>
+    </head>
+    <body>
+        <h1>Registration</h1>
+
+        <label for="firstname">First name</label>
+        
+        <input id="firstname" type="text">
+        
+        <br><br>
+        
+        <label for="lastname">Last name</label>
+        
+        <input id="lastname" type="text">
+        
+        <br><br>
+        
+        <label for="email">Email</label>
+        
+        <input id="email" type="email">
+        
+        <br><br>
+        
+        <label for="passord">Password</label>
+
+        <input id="passord" type="password">
+
+        <br><br>
+
+        <button>Register</button>
+    </body>
+    </html>

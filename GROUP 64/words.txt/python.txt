@@ -1,3 +1,5 @@
+Level 02:
+
 synatx - სინტქასი, ეს არის ერთგვარი წერის წესები
 display - გამოტანა
 print - ბეჭდვა
@@ -8,6 +10,9 @@ variable value - ცვლადის მნიშვნელობა
 string - ტექსტური მონაცემი
 parenthesis - ბრჩხილები
 quotation marks -  ბრჭყალები
+
+Level 04:
+
 memory - მეხსიერება
 output - მნიშვნელობის გამოტანა
 data - მონაცემები
@@ -36,7 +41,10 @@ subtract - გამოკლება
 multiply - გამრავლება
 divide - გაყოფა
 შექმნა - დეკლარირება
-store - შენახვა
+store - 
+
+Level 08:
+
 hash symbol - დიეზი # 
 underscore - ქვედატირე _
 Displaying - გამოტანა, ერკანზე გამოსახულების გამოტანა
@@ -58,3 +66,19 @@ join - გაერთიანება, შესვლა
 add - დამატება
 insert - ჩასმა
 concatenation - string ტიპის მონაცემების გაერთიანება
+
+Level 10:
+
+format - ფორმატი, სახე
+corrupt - კორუმპირებული, გადაგვარებული
+result - შედეგი
+type - ტიპი
+variety - მრავალფეროვნება
+check - შემოწმება
+division - განაყოფი
+survey - გამოკითხვა
+correct - სწორი
+convert - გადაყვანა
+explicit - ხელონვური
+implicit - ბუნებრივი
+multiple - მრავალი
