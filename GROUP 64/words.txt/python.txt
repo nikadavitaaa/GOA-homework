@@ -108,3 +108,38 @@ lowercase - პატარა ასო
 degree - გრადუსი
 presence - ყოფნა
 combine - გაერთიანება
+
+Level 14:
+
+solve problem - პროგრამის მოგვარება
+control flow - დინების მართვა
+techniques - ტექნიკები
+sequence - თანმიმდევრობა
+iteration - გამეორება
+selection - შერჩევა
+order - თანმდიმდევრობა
+top - ზემოთ
+bottom - ქვემოთ
+repeat - გამეორება
+algorithm - ნაბიჯ-ნაბიჯ ინსტრუქციები
+follow path - გზას გაყოლა
+notify - შეტყობინება
+range - დიაპაზონი
+represent - წარმოდგენა
+flowchart - დიაგრამა
+pseudocode - ფსევდოკოდი
+natural language - ბუნებრივი გზა
+different ways - სხვადასხვანაირად
+range - დიაპაზონი
+loop - მარყუჟი, ციკლი, გამეორება
+iteration - გამეორება
+keyword - რეზერვირებული სიტყვა ენაში
+
+Level 16:
+
+iterable - პროგრამირებაში დალაგებული მიმდევრობა
+sum - ჯამი
+while - რაღაცის განმავლობაში, იქამდე სანამ
+infinite - უსასრულო
+condition - პირობა
+initial  - საწყისი
