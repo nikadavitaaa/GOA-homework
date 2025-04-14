@@ -117,3 +117,16 @@ hit area - მონიშვნის ფართობი
 top - ზევით
 label - ეტიკეტი
 form - კითხვარი, ინფორმაციის შესავსები ანკეტა
+
+Level 13:
+
+
+
+Level 15:
+
+drop-down menu - ჩამოსაშლელი მენიუ
+select - არჩევა
+option - ვარიანტი
+choice - არჩევანი
+pre-selected - წინასწარ არჩეული
+placeholder - ადგილის დამკავებელი
