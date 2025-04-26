@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ვიდეოს საიტი</title>
+</head>
+<body>
+
+    <!-- Header - საიტის სათაური -->
+    <header>
+        <h1>ჩემი ვიდეო</h1>
+        <p>იხილეთ ვიდეო სხვადასხვა ფორმატით</p>
+    </header>
+
+    <!-- Main - საიტის ძირითადი ნაწილი -->
+    <main>
+        <section id="video-section">
+            <h2>ვიდეოს ყურება</h2>
+
+            <!-- Video ტეგი -->
+            <video width="640" height="360" controls>
+                <!-- პირველად შეეცდება mp4 ფორმატს -->
+                <source src="HTML tutorial.mp4" type="video/mp4">
+                <!-- თუ mp4 არ იმუშავებს, სცდის mkv-ს -->
+                <source src="HTML tutorial.mkv" type="video/mkv">
+                <!-- თუ არცერთი არ იმუშავებს, ეს ტექსტი გამოჩნდება -->
+                თქვენი ბრაუზერი არ უჭერს მხარს ამ ვიდეო ფორმატებს.
+            </video>
+        </section>
+    </main>
+
+    <!-- Footer - საიტის ქვედა ნაწილი -->
+    <footer>
+        <p>© 2025 თქვენი სახელი. ყველა უფლება დაცულია.</p>
+    </footer>
+
+</body>
+</html>

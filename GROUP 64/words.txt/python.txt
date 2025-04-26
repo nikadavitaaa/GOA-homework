@@ -143,3 +143,25 @@ while - რაღაცის განმავლობაში, იქამ
 infinite - უსასრულო
 condition - პირობა
 initial  - საწყისი
+
+Level 18:
+
+conditional statement - პირობითი განცხადება
+decide - გადაწყვეტა
+if - თუ
+else - სხვა შემთხვევაში
+even - ლუწი
+odd - კენტი
+
+Level 20:
+
+list - სია
+index - პოზიცია
+square brackets - კვადრატული ბრჩხილები
+
+Level 22:
+
+refer - მითითება
+mutable - შეცვლადი
+immutable - მნიშვნელობას ვერ შევუცვლით
+slice - ნაჭერი/ჩამოჭრა
