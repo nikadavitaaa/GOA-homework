@@ -158,3 +158,20 @@ divide - გაყოფა
 inline element - ელემენტი რომელიც მხოლოდ იმ ადგილს იკავებს რაც სჭირდება
 block level element - ელემენტი რომელიც მთალიანად იკავებს იმ სივრცეს რაც შეუძლია
 
+Level 23:
+
+table - ცხრილი
+row - რიგი
+column - სვეტი
+data - მონაცემი
+merge - გაერთიანება
+cell - უჯრა
+
+Level 25:
+
+onclick - დაჭერისას
+alert - გამაფრთხილებელი სიგნალი
+CSS - Cascading Style Sheets
+selector - ამარჩეველი
+layout - განლაგება
+style - სტილი
