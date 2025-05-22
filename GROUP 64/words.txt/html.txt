@@ -175,3 +175,10 @@ CSS - Cascading Style Sheets
 selector - ამარჩეველი
 layout - განლაგება
 style - სტილი
+
+Level 27:
+
+Inline - ხაზში
+Internal - შიდა
+External - გარე
+
