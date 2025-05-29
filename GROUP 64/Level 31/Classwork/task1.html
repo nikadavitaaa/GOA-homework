@@ -1,0 +1,47 @@
+<!-- 1) შექმენით 3 h2-ის ელემენტი, თითოეულის ქვემოთ უნდა იყოს 1 ღილაკი და პარაგრაფი. მხოლოდ მეორე h2-ს მიანიჭეთ წითელი ფერი id-ის გამოყენებით. ხოლო პირველი, მეორე და მესამე სექციები ცალ-ცალკე გასტილეთ class სელექტორის საშვალებით. გამოიყენეთ internal css -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #h2 {
+            color: red;
+        }
+        .class1 {
+            background-color: black;
+            color: green;
+        }
+        .class2 {
+            background-color: blue;
+            color: aqua;
+        }
+        .class3 {
+            background-color: beige;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+<div class="class1">
+    <h2>pirveli</h2>
+    <p>paragrafi1</p>
+    <button>button1</button>
+</div>
+    
+<div class="class1">
+    <h2 id="h2">meore</h2>
+    <p>paragrafi2</p>
+    <button>button2</button>
+</div>
+    
+<div class="class3">
+    <h2>Mesame</h2>
+    <p>paragrafi3</p>
+    <button>button3</button>
+</div>
+
+</body>
+</html>

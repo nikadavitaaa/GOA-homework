@@ -182,3 +182,18 @@ Inline - ხაზში
 Internal - შიდა
 External - გარე
 
+Level 29:
+
+colon - ორწერტილი
+semicolon - წერტილმძიმე
+comma - მძიმე
+curly braces - ფიგურული ბრჩხილები
+CSS Rule - კოდი რომელიც სტილავს ელემენტებს
+Selector - 
+Declaration - კუთვნილებისა და მნიშვნელობის წყვილი
+Property - კუთვნილებისა
+Value - მნიშვნელობა
+parent - მშობელი
+child - შვილი
+descendant - შთამომავალი
+inheritance - მემკვიდრეობა
