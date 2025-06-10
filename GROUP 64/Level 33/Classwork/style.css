@@ -1,0 +1,41 @@
+/* RGB - Red, Green და Blue, არის ფერის მოდელი */
+
+#Red {
+    color: rgb(255, 0, 0);
+}
+#Green{
+    color: rgb(0, 255, 0);
+}
+#Blue{
+    color: rgb(0, 0, 255);
+}
+#Yellow{
+    color: rgb(255, 255, );
+}
+#Cyan{
+    color: rgb(0, 255, 255);
+}
+#Magenta{
+    color: rgb(255, 0, 255);
+}
+#Orange{
+    color: rgb(255, 150, 0);
+}
+
+
+
+#Red1{
+    color: #FF0000;
+}
+#Green1{
+    color: #00FF00;
+}
+#Blue1{
+    color: #0000FF;
+}
+#Yello1{
+    color: #FFFF00;
+}
+#Pink1{
+    color: #FF00FF
+}
