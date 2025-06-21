@@ -13,3 +13,14 @@ parent - მშობელი
 child - შვილი
 descendant - შთამომავალი
 inheritance - მემკვიდრეობა
+
+Level 31:
+
+
+
+Level 33:
+
+RGB - Red, Green, Blue
+Hex - თექვსმეტობითი
+measuring unit - საზომი ერთეული
+pixel - ეკრანის საზომი ერთეული

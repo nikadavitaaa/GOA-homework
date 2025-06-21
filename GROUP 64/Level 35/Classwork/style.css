@@ -1,0 +1,19 @@
+/* 1) შექმენით ერთი პარაგრაფი და გასტილეთ მისი ტექსტი შემდეგი კუთვნილებებით: text-align, text-decoration-line, text-decoration-style, text-decoration-color, text-transform, text-shadow*/
+
+
+#p {
+    text-align: justify;
+    text-decoration: dashed red line-through;
+    text-transform: lowercase;
+    text-shadow: 12px 12px blue;
+}
+
+/* 
+text-align - მართავს ტექსტის განლაგებას
+
+text-dexoration - გვაძლევს ტექსტის კერძოდ გაფორმების საშუალებას,
+
+text-transform - გარდაქმნის ტექსტს ისეთ ტექსტად როგორადაც ჩვენ მივუთითებთ, ანუ, თუ მინდა შემიძლია მხოლოდ პირველი ასო იყოს დიდი და ა.შ
+
+text-shadow - ტექსტს უქმნის ჩრდილს
+*/ 
