@@ -24,3 +24,15 @@ RGB - Red, Green, Blue
 Hex - თექვსმეტობითი
 measuring unit - საზომი ერთეული
 pixel - ეკრანის საზომი ერთეული
+
+Level 35:
+
+text-decoration - ტექსტის დეკორაცია
+text-decoration-style - ტექსტის დეკორაციის სტილი
+text-decoration-line - ტექსტის დეკორაციის ხაზი
+text-decoration-color - ტექსტის დეკორაციის ფერი
+text-transform - ტექსტის გარდაქმნა
+text-shadow - ტექტსტის ჩრდილი
+dotted - წერტილოვანი
+dashed - წყვეტილი
+wavy - ტალღური

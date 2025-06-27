@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+<meta charset="UTF-8">
+<title>სტილიზებული ცხრილი</title>
+<style>
+    /* პირველი ცხრილის სტილები */
+    table.first {
+        border: 2px solid black;
+    }
+
+    table.first th,
+    table.first td {
+        border: 1px solid gray;
+    }
+
+    table.first td:nth-child(2) {
+        background-color: rgb(217, 237, 247);
+    }
+
+    /* მეორე ცხრილის სტილები */
+    table.second {
+        border: 54px solid black;
+        border-collapse: collapse;
+    }
+
+    table.second th,
+    table.second td {
+        border: 3px solid gray;
+    }
+
+    table.second td:nth-child(2) {
+        background-color: rgb(222, 240, 216);
+    }
+
+    /*
+    - border-width: ჩარჩოს სიგანე
+    - border-style: ჩარჩოს სტილი (მაგ: solid, dashed, dotted)
+    - border-color: ჩარჩოს ფერი
+    */
+</style>
+</head>
+<body>
+
+<h2>პირველი ცხრილი</h2>
+<table class="first">
+    <tr>
+        <th>სახელი</th>
+        <th>ასაკი</th>
+        <th>ქალაქი</th>
+    </tr>
+    <tr>
+        <td>ანა</td>
+        <td>23</td>
+        <td>თბილისი</td>
+    </tr>
+    <tr>
+        <td>გიორგი</td>
+        <td>29</td>
+        <td>ბათუმი</td>
+    </tr>
+</table>
+
+<br>
+
+<h2>მეორე ცხრილი</h2>
+<table class="second">
+    <tr>
+        <th>სახელი</th>
+        <th>ასაკი</th>
+        <th>ქალაქი</th>
+    </tr>
+    <tr>
+        <td>ნინო</td>
+        <td>31</td>
+        <td>ქუთაისი</td>
+    </tr>
+    <tr>
+        <td>ლაშა</td>
+        <td>27</td>
+        <td>ზუგდიდი</td>
+    </tr>
+</table>
+
+</body>
+</html>
