@@ -1,0 +1,9 @@
+ol {
+    list-style-position: inside;       /* მარკერის პოზიცია შიგნით */
+    list-style-type: upper-roman;      /* რიმული რიცხვები */
+    list-style-image: url('https://cdn-icons-png.flaticon.com/512/25/25231.png'); 
+}
+
+ul {
+    list-style: square inside url('https://cdn-icons-png.flaticon.com/512/54/54997.png');
+}

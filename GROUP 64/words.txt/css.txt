@@ -36,3 +36,9 @@ text-shadow - ტექტსტის ჩრდილი
 dotted - წერტილოვანი
 dashed - წყვეტილი
 wavy - ტალღური
+
+Level 37:
+
+font-family - შრიფტის ტიპი
+font-weight - შრიფტის სისქე
+fallback - სათადარიგო

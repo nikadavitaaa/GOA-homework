@@ -1,0 +1,60 @@
+/* Task 1 */
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.pacifico {
+    font-family: 'Pacifico', cursive;
+}
+
+.orbitron {
+    font-family: 'Orbitron', sans-serif;
+}
+
+
+
+    /* Task 2 */
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+#para1 {
+    font-family: 'Lobster', sans-serif;
+}
+
+#para2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#para3 {
+    font-family: 'Indie Flower', sans-serif;
+}
+
+
+
+/* Task 3 */
+
+/* Generic Font - არის შრიფტის ზოგადი კატეგორია, რომელიც აღნიშნავს ფონტების ჯგუფს, არა კონკრეტულ შრიფტს. ეს გამოიყენება იმ შემთხვევაშ, როცა მითითებული ფონტის ჩატვირთვა ბრაუზერს არ შეუძლია. მე <link> ტიპის იმპორტირება მირჩევნია
+
+
+/* Task 4 */
+
+/* სტილები ფონტების, padding-ის და margin-ის გარეშე */
+
+body {
+    background-color: rgb(245, 245, 245);
+    color: rgb(51, 51, 51);
+}
+
+header {
+    background-color: rgb(66, 150, 206);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+section {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
