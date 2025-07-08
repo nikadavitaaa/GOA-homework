@@ -1,0 +1,125 @@
+/* task 1 */
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+a:hover {
+    color: blue;
+    background-color: rgb(224, 224, 224);
+    font-weight: bold;
+}
+
+a:active {
+    color: orange;
+    background-color: rgb(192, 192, 192);
+    text-decoration: underline;
+}
+
+/* task 2 */
+
+.sololearn:link {
+    color: blue;
+    background-color: rgb(208, 240, 255);
+    text-decoration: none;
+}
+
+/* :visited — ლინკი, რომელიც უკვე შემსწავლელი (visited) */
+
+.sololearn:visited {
+    color: purple;
+    background-color: rgb(224, 208, 255);
+    text-decoration: none;
+}
+
+/* :hover — როცა მაუსის კურსორი ლინკზეა (mouse over) */
+
+.sololearn:hover {
+    color: darkblue;
+    background-color: rgb(160, 212, 255);
+    text-decoration: underline;
+}
+
+/* :active — როცა ლინკი დაჭერილია (clicking) */
+.sololearn:active {
+    color: navy;
+    background-color: rgb(128, 191, 255);
+    text-decoration: underline;
+}
+
+
+    /* Wikipedia */
+
+.wikipedia:link {
+    color: darkred;
+    background-color: rgb(255, 208, 208);
+    text-decoration: none;
+}
+
+.wikipedia:visited {
+    color: brown;
+    background-color: rgb(255, 176, 176);
+    text-decoration: none;
+}
+
+.wikipedia:hover {
+    color: red;
+    background-color: rgb(255, 128, 128);
+    text-decoration: underline;
+}
+
+.wikipedia:active {
+    color: darkred;
+    background-color: rgb(255, 96, 96);
+    text-decoration: underline;
+}
+
+
+    /* W3Schools */
+
+.w3schools:link {
+    color: green;
+    background-color: rgb(208, 255, 208);
+    text-decoration: none;
+}
+
+.w3schools:visited {
+    color: darkgreen;
+    background-color: rgb(176, 255, 176);
+    text-decoration: none;
+}
+
+.w3schools:hover {
+    color: limegreen;
+    background-color: rgb(128, 255, 128);
+    text-decoration: underline;
+}
+
+.w3schools:active {
+    color: forestgreen;
+    background-color: rgb(96, 255, 96);
+    text-decoration: underline;
+}
+
+/* task 3 */
+
+table {
+    border: 2px solid black;
+    /* margin ამოღებულია */
+}
+
+th, td {
+    border: 2px solid black;
+    text-align: center;
+    /* padding ამოღებულია */
+}
+
+td:nth-child(2) {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+.collapsed {
+    border-collapse: collapse;
+}
