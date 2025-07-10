@@ -1,0 +1,27 @@
+/* შექმენით 2 div, box1 და box2 მიანიჭეთ მათ შესაბამისი id, შემდეგ მიანიჭეთ width, ორივე ელემენტს, ასევე backgroundcolor და border კუთვნილებები. შემდეგ პირველ box1-ს გაუწერეთ 15px padding და 40px margin, ხოლო მეორე box-ს გაუწერეთ 10px padding და 30px margin. შემდეგ კომენტარებით დაწერეთ რა არის padding და margin კუთვნილებები და ზოგადად CSS Box Model */
+
+#div1 {
+    width: 50px;
+    background-color: aqua;
+    border: 2px dotted black;
+    
+    padding: 15px;
+    margin: 40px;
+}
+
+#div2 {
+    width: 70px;
+    background-color: beige;
+    border: 5px dashed red;
+    
+    padding: 10px;
+    margin: 30px;
+}
+
+/* Padding - ეს არის დისტანცია ტექსტისგან ტექსტის Border-ამდე */
+
+/* Margin - აშორებს ელემენტს სხვებისგან იმდენი პიქსელით რამდენითაც ჩვენ დავაშორებთ */
+
+/* CSS Box Model მოიაზრებს რომ ყველაფერს აქვს ჩარჩო */
+
+/* CSS Reset - თავდაპირველ გადმოყოლილ სტილებს შლის */
