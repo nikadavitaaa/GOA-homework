@@ -203,3 +203,14 @@ min - მინიმალური
 max - მაქსიმალური
 sort - დალაგება
 tuple - შეუცვლადი, დალაგებული სიმრავლე duplicated allowed
+
+Level 42:
+
+add - დამატება
+remove - წაშლა
+union - გაერთიანება
+intersection - თანაკვეთა
+clear - გასუფთავება
+combined - გაერთანიებული
+dictionary - ლექსიკონი
+pair - წყვილი

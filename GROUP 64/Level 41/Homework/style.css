@@ -1,0 +1,54 @@
+/* Task 1 */
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td {
+    border: 2px solid black;
+}
+
+/* Task 2 */
+
+ul {
+    list-style-type: square;
+    border-left: 4px solid orange;
+    padding: 0;
+    margin: 0;
+}
+
+/* Task 3 */
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    border-radius: 8px;
+    border: 2px solid gray;
+}
+
+button {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
+/* Task 4 */
+
+form {
+    background-color: lightgray;
+}
+
+input[type="text"],
+textarea {
+    border-radius: 5px;
+    border: 1px solid blue;
+    text-transform: capitalize;
+}
+
+input[type="text"]:hover {
+    background-color: rgb(173, 216, 230);
+}
