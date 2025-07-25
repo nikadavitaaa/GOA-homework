@@ -1,0 +1,96 @@
+/* Task 2 */
+
+#container {
+    display: flex;
+    border: 2px solid rgb(51, 51, 51);
+    height: 200px;
+    margin-bottom: 40px;
+}
+
+.box {
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    flex-basis: 100px;
+}
+
+#box1 {
+    background-color: rgb(231, 76, 60); 
+    flex-grow: 1; 
+}
+#box2 { 
+    background-color: rgb(52, 152, 219); 
+    flex-grow: 2; 
+}
+#box3 { 
+    background-color: rgb(46, 204, 113); 
+    flex-grow: 0; 
+}
+#box4 { 
+    background-color: rgb(241, 196, 15); 
+    color: black; 
+    flex-grow: 3; 
+}
+#box5 { 
+    background-color: rgb(155, 89, 182); 
+    flex-grow: 1; 
+}
+
+/* Task 3 */
+
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    height: 400px;
+    border: 2px solid rgb(68, 68, 68);
+    padding: 10px;
+}
+
+.box {
+    min-width: 100px;
+    min-height: 100px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+}
+
+#box1 {
+    background-color: rgb(231, 76, 60);
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+#box2 {
+    background-color: rgb(52, 152, 219);
+    flex-grow: 2;
+    flex-shrink: 1;
+}
+
+#box3 {
+    background-color: rgb(46, 204, 113);
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+#box4 {
+    background-color: rgb(241, 196, 15);
+    color: black;
+    flex-grow: 3;
+    flex-shrink: 2;
+}
+
+#box5 {
+    background-color: rgb(155, 89, 182);
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+
+/* ბოლო ორი არ დამისრულებია ჯერ :( */
