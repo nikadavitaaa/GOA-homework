@@ -1,0 +1,183 @@
+Level 03:
+
+Frontend - საიტის ვიზუალური მხარე, რასთანაც შეხება აქვს მომხმარებელს
+Backend - საიტის ფუნქციონალური მხარე რომელსაც ჩვენ ვერ ვხედავთ
+
+HTML - ტექნოლოგია რომელიც გამოიყენება საიტის სტრუქტურის შესაქმნელად
+CSS - ტექნოლოგია რომელიც გამოიყენება საიტის დიზაინის შესაქმნელად
+JavaScript - ენა რომლითაც ჩვენი საიტები ხდება ფუნქციონალური, ინტერაქციული
+
+HTML - HyperText Markup language
+Markup Symbols - <>
+
+Interactivity - მოძრავი
+
+angle brackets - კუთხური ბრჩხილები (<>)
+button - ღილაკი
+content - შიგთავსი
+slash - დახრილი ხაზი (/)
+web - ქსელი
+page - გვერდი
+convert - გადაყვანა
+translate - გადათარგმნა
+user - მომხმარებელი
+run - გაშვება
+element - ელემენტი
+heading - სათაური
+
+Level 05:
+
+source (src) - წყარო
+search - ძიება
+server - კომპიუტერი რომელიც მუდმივ კავშირშია ინტერნეტთან
+location/address - მისამართი
+typo - წერითი შეცდომა
+case insensitive - დიდი/პატარა ასოების მიმართ გულგრილი
+search engine - საძიებო ძრავა
+request - მოთხოვნა
+level - დონე
+empty - ცარიელი
+temporarily - დროებით
+disable - გამორთვა
+organize - მოწესრიგება, დალაგება
+explain - ახსნა, განმარტება
+white space - 1-ზე მეტი space
+line break - ხაზის გაწყვეტა
+head - თავი
+body - ტანი
+content - შიგთავსი
+nesting - ჩაშენება
+
+Level 07:
+
+text formatting - ტექსტის გასტილვა
+bold - მუქი, გამოკვეთილი
+italic - იტალიური, დახრილი
+underline - ქვედახაზი
+semantic - ემოციური დატვირთვის მქონე
+strong - ძლიერი, მნიშვნელოვია
+emphasis - ემფაზისი
+connect - დაკავშირება
+anchor - ღუზა
+hypertext - ტექსტი რომლის მიღმაც ბმულია
+link - ბმული
+domain name - საიტის სახელის ის ნაწილი რომელიც ყველა მის ქვეგვერდზე იგივე რჩება
+inclusive - მომცველი
+accessible - ხელმისაწვდომი
+format - ფორმატი, სახე
+web accessibility - საიტის თავსებადობა
+screen reader - ეკრანის მკითხველი
+collaboration - თანამშრომლობა
+compatible - თავსებადი
+effective - ეფექტური
+loaded - ჩატვირთული
+indentation - ინდენტაცია (ცარიელი სივრცე ხაზის დასაწყისში)
+best practice - საუკეთესო პრაქტიკა
+matching - შესატყვისი
+attach - მიმაგრება
+
+Level 09:
+
+order - დალაგებული
+unorder - დაულაგებელი
+contain - მოიცავს
+item - ნივთი
+attribute - ატრიუბტი
+optional  - არჩევითი
+required - საჭირო 
+size - ზომა
+label - ეტიკეტი
+width - სიგანე
+height - სიმაღლე
+pair - წყვილი
+aspect ratio - თანაფარდობა
+change - შეცვლა
+distortion - დამახინჯება
+additional - დამატებითი
+correctly - სწორად
+specified - დაზუსტებული
+
+Level 11:
+
+shape - ფორმა
+navigation - ნავიგაცია
+multiple - მრავალი
+single  - ერთი
+impact - გავლენა
+set - კომპლექტი
+extension - გაფართოება
+mark - მონიშვნა
+unique - უნიკალური, განუმეორებელი
+target - სამიზნე
+checkbox - მოსანიშნი ყუთი
+targets - უმიზნებს, მიუთითებს
+id - უნიკალური ნომერი
+for - ამისთვის (რაღაცისთვის)
+hit area - მონიშვნის ფართობი
+top - ზევით
+label - ეტიკეტი
+form - კითხვარი, ინფორმაციის შესავსები ანკეტა
+
+Level 13:
+
+
+Level 15:
+
+drop-down menu - ჩამოსაშლელი მენიუ
+select - არჩევა
+option - ვარიანტი
+choice - არჩევანი
+pre-selected - წინასწარ არჩეული
+placeholder - ადგილის დამკავებელი
+
+Level 17:
+
+audio - ხმა
+autoplay - ავტომატური ჩართვა
+loop - ციკლი, მარუჟი
+muted - დამუნჯებული, ხმა გათიშული
+control - მართვა
+
+Level 19:
+
+responsive - მორგებადი
+article - სტატია
+section - სექცია
+aside - განზე
+color - ფერი
+background-color - ფონის ფერი
+font-size - შრიფტის ზომა
+font-weight - ტექსტის სისქე
+text-align - ტექსტის განლაგება
+border - საზღვარი
+
+Level 21:
+
+dash - (-) სიმბოლო
+divide - გაყოფა
+inline element - ელემენტი რომელიც მხოლოდ იმ ადგილს იკავებს რაც სჭირდება
+block level element - ელემენტი რომელიც მთალიანად იკავებს იმ სივრცეს რაც შეუძლია
+
+Level 23:
+
+table - ცხრილი
+row - რიგი
+column - სვეტი
+data - მონაცემი
+merge - გაერთიანება
+cell - უჯრა
+
+Level 25:
+
+onclick - დაჭერისას
+alert - გამაფრთხილებელი სიგნალი
+CSS - Cascading Style Sheets
+selector - ამარჩეველი
+layout - განლაგება
+style - სტილი
+
+Level 27:
+
+Inline - ხაზში
+Internal - შიდა
+External - გარე

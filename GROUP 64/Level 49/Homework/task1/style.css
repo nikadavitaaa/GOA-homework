@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 40px auto;
+    overflow: hidden;
+}
+
+.card {
+    float: left;
+    width: 32%;
+    margin-right: 2%;
+    margin-bottom: 20px;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.card:nth-child(3n) {
+    margin-right: 0;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
+}
+
+.text h2 {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+.text p {
+    font-size: 1em;
+}
+
+#seoul {
+    background: url('SK.png') center/cover no-repeat;
+}
+
+#tbilisi {
+    background: url('Tbilisi.png') center/cover no-repeat;
+}
+
+#newyork {
+    background: url('NYC.png') center/cover no-repeat;
+}
+
+#paris {
+    background: url('Paris.png') center/cover no-repeat;
+}
+
+#tokyo {
+    background: url('Tokyo.png') center/cover no-repeat;
+}
+
+#dubai {
+    background: url('Dubai.png') center/cover no-repeat;
+}

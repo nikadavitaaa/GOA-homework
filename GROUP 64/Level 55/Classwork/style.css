@@ -1,0 +1,63 @@
+#Parent {
+    height: 500px;
+    width: 500px;
+    background-color: antiquewhite;
+    border: 10;
+}
+
+#Child {
+    height: 50%;
+    width: 50%;
+    background-color: blueviolet;
+    border: 5px;
+    transition: transform 5s ease;
+}
+
+#Parent:hover #Child {
+    transform: scale(2) rotate(45deg) skewX(15deg) translateY(-55);
+    border: 50px;
+    background-color: blue;
+}
+
+
+/* ------------------------------------------------------------------- */
+#parent {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+#child {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    animation: moveAround 4s linear 1s infinite forwards;
+}
+
+#child:hover {
+    animation-play-state: paused;
+}
+
+@keyframes moveAround {
+    0% {
+        transform: translate(0px, 0px);
+    }
+
+    25% {
+        transform: translate(250px, 0px);
+    }
+
+    50% {
+        transform: translate(250px, 250px);
+    }
+
+    75% {
+        transform: translate(0px, 250px);
+    }
+
+    100% {
+        transform: translate(0px, 0px);
+    }
+}
