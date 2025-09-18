@@ -87,3 +87,11 @@ transition - გარდამავალი/გადასვლა
 duration - ხანგრძლივობა
 delay - დაყოვნება
 trigger - გამომწვევი
+
+Level 55:
+
+keyframe - საკვანძო ჩარჩო
+intermediate states - შუალედური მდგომარეობები
+duration - ხანგრძლოვბა
+delay - დაყოვნება
+direction - მიმართულება

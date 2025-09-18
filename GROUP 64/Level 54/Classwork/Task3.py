@@ -7,4 +7,4 @@ def decorator(func):
 
 @decorator
 def greet():
-    print("Hello worls")
+    print("Hello world")
